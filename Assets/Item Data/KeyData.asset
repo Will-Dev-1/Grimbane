@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6e94a5e391abe742849b5cfdb16d586, type: 3}
+  m_Name: KeyData
+  m_EditorClassIdentifier: 
+  displayName: Enchanted Skull
+  itemName: Enchanted Skull
+  description: 'Are the eyes...glowing?
+
+
+    Grants the ability to detect secret
+    rooms.'
+  icon: {fileID: 689382829, guid: 47f4fc816f01429499560ffb071ce587, type: 3}
+  collected: 0
+  id: i-003
+  dashDelayModifier: 0
+  dashLengthModifier: 0
+  isRangedAttack: 0
+  projectileDamage: 0
+  healthCostPerShot: 0
+  projectilePrefab: {fileID: 0}
+  isWeapon: 0
+  wepDmgMod: 0
+  wepSpdMod: 0
+  damageMultiplier: 0
+  disableLifesteal: 0
+  isSecretRoomFinder: 1

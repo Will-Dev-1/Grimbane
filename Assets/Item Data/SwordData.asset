@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6e94a5e391abe742849b5cfdb16d586, type: 3}
+  m_Name: SwordData
+  m_EditorClassIdentifier: 
+  displayName: Sundered Steel
+  itemName: Sundered Steel
+  description: A formerly broken sword, repaired by an unskilled hand.
+  icon: {fileID: 1187387150, guid: 5eeeab2e70a76e743ae5c47d17e09580, type: 3}
+  collected: 0
+  id: 8a90ee3a-60a1-4658-8e0d-85d75322e3c2
+  dashDelayModifier: 0
+  dashLengthModifier: 0
+  isRangedAttack: 0
+  projectileDamage: 0
+  healthCostPerShot: 0
+  projectilePrefab: {fileID: 0}
+  isWeapon: 1
+  wepDmgMod: 0
+  wepSpdMod: 1
+  damageMultiplier: 0
+  disableLifesteal: 0
+  isSecretRoomFinder: 0

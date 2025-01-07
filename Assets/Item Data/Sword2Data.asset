@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6e94a5e391abe742849b5cfdb16d586, type: 3}
+  m_Name: Sword2Data
+  m_EditorClassIdentifier: 
+  displayName: Starlight Blade
+  itemName: Starlight Blade
+  description: A massive sword, blessed with the power of the stars by the church.
+    Slow and unwieldy, but inflicts massive damage.
+  icon: {fileID: 1535193075, guid: 5eeeab2e70a76e743ae5c47d17e09580, type: 3}
+  collected: 0
+  id: 8ffbe399-2406-491c-8e07-dacc7fabcb6b
+  dashDelayModifier: 0
+  dashLengthModifier: 0
+  isRangedAttack: 0
+  projectileDamage: 0
+  healthCostPerShot: 0
+  projectilePrefab: {fileID: 0}
+  isWeapon: 1
+  wepDmgMod: 2
+  wepSpdMod: 1.5
+  damageMultiplier: 0
+  disableLifesteal: 0
+  isSecretRoomFinder: 0

@@ -1,0 +1,1372 @@
+fileFormatVersion: 2
+guid: 4563622fa7066a6419d2012efef9238c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bishop_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1094.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ae513026616ba41b2ff78bae884e5b
+      internalID: 1895733689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1094.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a19513dff904ca4a907633cd4737cbb
+      internalID: -1317972616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1094.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b9e2ea70fa27d42972315bb560f110
+      internalID: 1369788450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1094.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce71b33f39ee3374190636b430f528dd
+      internalID: 959940873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_4
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1094.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4891b3f8cad044c489effccb827c2dcb
+      internalID: -1813488632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_5
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1094.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7993b7159049e64f86ded5f749a6cd1
+      internalID: 2007571619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_6
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1094.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fd34619c469ef40b44aa1eb1825efb
+      internalID: -1464976490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 938.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb97e283bfaf8849a05c4b53320e93f
+      internalID: 155976133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_8
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 938.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b525617bc457d3e459c22f0a32fd9a34
+      internalID: 1262742937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_9
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 938.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993205de8f63eec4a91f979a5da96ae2
+      internalID: 780590066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_10
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 938.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf7f66b71cf9434fb5409c5b1041bcc
+      internalID: 1787397120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_11
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 938.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd9f9dded92f2a4a898797db53237fb
+      internalID: -1222609082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_12
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 938.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74614bb22904514187983c3fde31c25
+      internalID: -1718464205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_13
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 938.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04d4d28ba7fca04894595563b6baabf
+      internalID: 232309470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 782.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7796647c8cde54f89c4893397d505c
+      internalID: -811759739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_15
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 782.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58c7b7ae18602946ab4659df62b2609
+      internalID: 635012381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_16
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 782.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db1a81c624b8664bb1f56e6697e84d4
+      internalID: -1646009393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_17
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 782.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac95a854caac24438335bff8f08e5c3
+      internalID: -2066293583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_18
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 782.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1f106fdf598b2478a7230c10b513c8
+      internalID: -63815973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_19
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 782.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8811e343f7feb164886f3774742e2e7f
+      internalID: 426789504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_20
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 782.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba268d36c954ac4bb1accf8305bdf69
+      internalID: -1800752565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 626.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0c9cfbe917971459c4607949c79175
+      internalID: 806648693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_22
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 626.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5561a77befeb7ec46acbd9fdb9a0b45f
+      internalID: -1615614822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_23
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 626.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f2395df0152724e8f5e3b47143cdb0
+      internalID: 1854251119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_24
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 626.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d7c8dda12ead14f93f0a239883a00e
+      internalID: 961913776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_25
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 626.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f512a0291dde40541ac3dc908b16fc78
+      internalID: 1175146695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_26
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 626.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf50a7d90539a94dad2a91154b1aeca
+      internalID: -630475140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_27
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 626.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e41b4d7df1bf214d9efe71f0ef68107
+      internalID: 838150537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6260b763933f44f8ad1d70643da8ec
+      internalID: -2099701384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_29
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 470.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0169eb692ad1c0c4d8a600a8a51b28a1
+      internalID: -1268601279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_30
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 470.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40e314e855415f4e9f8dda02d1a504f
+      internalID: -669308331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_31
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 470.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51784532b6ffff54a973b2c3a5260a79
+      internalID: 1308580946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_32
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 470.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071d9356d9a869e498f47908d98b6e88
+      internalID: -1616896547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_33
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 470.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44d35bfb210f924c8d8c3a47709ab54
+      internalID: 1976700073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_34
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 470.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8100d63caf760b408c039ba94ac30c9
+      internalID: 1442790423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489fac686ba085940a18dd363d49b208
+      internalID: 1388319649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_36
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 314.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75106a41cea73a42aef850f4705b346
+      internalID: -1263839108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_37
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 314.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a5ca87d7bc38741b13f6f697c37e03
+      internalID: -1011502219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_38
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 314.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5accb1e4eefd47f4c9cb7d1e5ef2d5f7
+      internalID: -880948426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_39
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 314.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2065b3efb4e69488b47ae1a1f9d6e3
+      internalID: -744758554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_40
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 314.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45951e0d3165c8d429aedfaebc39b5fe
+      internalID: 1888248686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_41
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 314.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd92f044fce48c4e97dd1f42837719e
+      internalID: 1344140370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7413c825b9035ed49b616a08b7037104
+      internalID: 1037967134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_43
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 158.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313e45cb33cf4354ab3c058ec084e25b
+      internalID: -1227804294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_44
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 158.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac8a03827164ba4dab32b3bc652a072
+      internalID: -1182278656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_45
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 158.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513558089d2916e4198914fcaf48de7c
+      internalID: 1111991455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_46
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 158.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cfae834faa9c34c920dee2cabb32ec
+      internalID: 1550026951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_47
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 158.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e57d3dca5c4fe418a04e8ccea380f3
+      internalID: -1069844162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_48
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 158.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5966008aaf2cdc44bcd588d27e4795f
+      internalID: -840309841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba5787c8d512ea48990c1fcd749eb0e
+      internalID: 1242422939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_50
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd6b72b51518b141b048c3fbe2bd12c
+      internalID: -1234174167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_51
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17ea9db9c38fa348b56f97349594fa2
+      internalID: -630284100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_52
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8575a463e21111b48a01acf01b40ae94
+      internalID: 1062577359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_53
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5902cb495940e844e91a50dd97af188c
+      internalID: -349925029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_54
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d3308a93b00734fb8d91da248dd570
+      internalID: -1878610853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_55
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2.625
+        width: 156
+        height: 156.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c34936983d837b488ce875c26c1305c
+      internalID: -1411969941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bishop_0: 1895733689
+      bishop_1: -1317972616
+      bishop_10: 1787397120
+      bishop_11: -1222609082
+      bishop_12: -1718464205
+      bishop_13: 232309470
+      bishop_14: -811759739
+      bishop_15: 635012381
+      bishop_16: -1646009393
+      bishop_17: -2066293583
+      bishop_18: -63815973
+      bishop_19: 426789504
+      bishop_2: 1369788450
+      bishop_20: -1800752565
+      bishop_21: 806648693
+      bishop_22: -1615614822
+      bishop_23: 1854251119
+      bishop_24: 961913776
+      bishop_25: 1175146695
+      bishop_26: -630475140
+      bishop_27: 838150537
+      bishop_28: -2099701384
+      bishop_29: -1268601279
+      bishop_3: 959940873
+      bishop_30: -669308331
+      bishop_31: 1308580946
+      bishop_32: -1616896547
+      bishop_33: 1976700073
+      bishop_34: 1442790423
+      bishop_35: 1388319649
+      bishop_36: -1263839108
+      bishop_37: -1011502219
+      bishop_38: -880948426
+      bishop_39: -744758554
+      bishop_4: -1813488632
+      bishop_40: 1888248686
+      bishop_41: 1344140370
+      bishop_42: 1037967134
+      bishop_43: -1227804294
+      bishop_44: -1182278656
+      bishop_45: 1111991455
+      bishop_46: 1550026951
+      bishop_47: -1069844162
+      bishop_48: -840309841
+      bishop_49: 1242422939
+      bishop_5: 2007571619
+      bishop_50: -1234174167
+      bishop_51: -630284100
+      bishop_52: 1062577359
+      bishop_53: -349925029
+      bishop_54: -1878610853
+      bishop_55: -1411969941
+      bishop_6: -1464976490
+      bishop_7: 155976133
+      bishop_8: 1262742937
+      bishop_9: 780590066
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
